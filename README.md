@@ -7,5 +7,12 @@
 - 🔭 I worked for [Delivery Hero/foodpanda](https://www.deliveryhero.com/), [Trend Micro](https://www.trendmicro.com/en_us/business.html)
 - 🌱 I’m currently learning more about equitable and inclusive design
 - 👯 I’m looking to collaborate with engineering teams remotely
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/benitahuang/)
+- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/benitahuang/)
 - ⚡ Fun fact: Inappropriate to share here
+
+### Skill Set 
+[![](https://img.shields.io/badge/-Html5-orange)]() [![](https://img.shields.io/badge/-CSS3-blue)]() [![](https://img.shields.io/badge/-JavaScript-yellow)]() 
+
+## Motto
+> The best time to plant a tree was 20 years ago.
+> The second best time is now.
