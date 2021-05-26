@@ -10,6 +10,8 @@
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/benitahuang/)
 - ⚡ Fun fact: Inappropriate to share here
 
+![Benita's GitHub stats](https://github-readme-stats.vercel.app/api?username=chipy1209&theme=buefy&show_icons=true)
+
 ### Skill Set 
 [![](https://img.shields.io/badge/-Html5-orange)]()   [![](https://img.shields.io/badge/-CSS3-blue)]() [![](https://img.shields.io/badge/-JavaScript-yellow)]() 
 
