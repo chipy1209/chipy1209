@@ -13,6 +13,8 @@
 ### Skill Set 
 [![](https://img.shields.io/badge/-Html5-orange)]()   [![](https://img.shields.io/badge/-CSS3-blue)]() [![](https://img.shields.io/badge/-JavaScript-yellow)]() 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=chipy1209&theme=gruvbox&margin-w=20&margin-h=10)]()
+
 ### Motto
 > The best time to plant a tree was 20 years ago.
 > The second best time is now.
