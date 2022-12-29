@@ -18,4 +18,4 @@
 ### Motto
 > The best time to plant a tree was 20 years ago.
 > The second best time is now.
-> - Celebrate endings—for they precede new beginnings.
+>> Celebrate endings—for they precede new beginnings.
