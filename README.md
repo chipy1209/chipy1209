@@ -10,12 +10,12 @@
 
 ![Alt text](https://media.giphy.com/media/donuvmEKiVdWE/giphy.gif)
 
-![Benita's GitHub stats](https://github-readme-stats.vercel.app/api?username=chipy1209&theme=buefy&show_icons=true)
-
 ### Skill Set 
 [![](https://img.shields.io/badge/-Html5-orange)]()   [![](https://img.shields.io/badge/-CSS3-blue)]() [![](https://img.shields.io/badge/-JavaScript-yellow)]() 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chipy1209&theme=gruvbox&margin-w=20&margin-h=10)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=chipy1209&theme=gruvbox&margin-w=20&margin-h=10)])
+![Benita's GitHub stats](https://github-readme-stats.vercel.app/api?username=chipy1209&theme=buefy&show_icons=true)
+
 
 ### Motto
 > The best time to plant a tree was 20 years ago.
