@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate with engineering teams remotely
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/benitahuang/)
 
-![](http://i.imgur.com/OUkLi.gif](https://media.giphy.com/media/donuvmEKiVdWE/giphy.gif)
-
 ![Benita's GitHub stats](https://github-readme-stats.vercel.app/api?username=chipy1209&theme=buefy&show_icons=true)
 
 ### Skill Set 
