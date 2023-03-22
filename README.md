@@ -19,3 +19,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=chipy1209&theme=gruvbox&margin-w=20&margin-h=10)
 
 ![Benita's GitHub stats](https://github-readme-stats.vercel.app/api?username=chipy1209&theme=buefy&show_icons=true)
+
+<div>
+<a href="https://github.com/chipy1209">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipy1209&layout=compact" style="height:180px" alt=" Benita's top programming languages"/>
+</a>
