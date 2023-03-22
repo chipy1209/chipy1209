@@ -13,8 +13,7 @@
 
 ![Alt text](https://media.giphy.com/media/donuvmEKiVdWE/giphy.gif)
 
-### Skill Set 
-[![](https://img.shields.io/badge/-Html5-orange)]()   [![](https://img.shields.io/badge/-CSS3-blue)]() [![](https://img.shields.io/badge/-JavaScript-yellow)]() 
+### Skill Set:  [![](https://img.shields.io/badge/-Html5-orange)]()   [![](https://img.shields.io/badge/-CSS3-blue)]() [![](https://img.shields.io/badge/-JavaScript-yellow)]() 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=chipy1209&theme=gruvbox&margin-w=20&margin-h=10)
 
