@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning more about equitable and inclusive design
 - 👯 I’m looking to collaborate with engineering teams remotely
-- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/benitahuang/)
 
 ![Alt text](https://media.giphy.com/media/donuvmEKiVdWE/giphy.gif)
 
