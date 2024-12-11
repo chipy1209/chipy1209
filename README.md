@@ -7,7 +7,7 @@
 > The second best time is now.
 > Celebrate endings—for they precede new beginnings.
 
-- 🌱 I’m currently learning more about equitable and inclusive design
+- 🌱 I’m currently learning Kotlin, ComposeUI, equitable and inclusive design
 - 👯 I’m looking to collaborate with engineering teams remotely
 
 ![Alt text](https://media.giphy.com/media/donuvmEKiVdWE/giphy.gif)
