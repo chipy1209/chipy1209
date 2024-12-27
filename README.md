@@ -20,5 +20,5 @@
 
 <div>
 <a href="https://github.com/chipy1209">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipy1209&layout=compact" style="height:180px" alt=" Benita's top programming languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipy1209&layout=compact" style="height:120px" alt=" Benita's top programming languages"/>
 </a>
